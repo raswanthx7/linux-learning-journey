@@ -14,3 +14,13 @@ This is a self-paced, hands-on journey toward mastering Linux fundamentals.
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
+---
+
+## 📄 Attribution Notice
+
+This repository and its content were created by **[Raswanth](https://github.com/raswanthx7)** for educational and self-learning purposes.
+
+Please **provide proper credit** when using, forking, or referencing this work.  
+Redistributing without attribution or using it for commercial purposes violates the license.
+
+

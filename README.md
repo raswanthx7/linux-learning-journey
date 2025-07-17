@@ -1,16 +1,25 @@
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-# Linux Learning Journey – 30 Day Plan
+## 🐧 30-Day Linux Learning Journey
 
-This repository contains my personal notes and practice files from my 30-day Linux learning journey. I'm using Red Hat Linux in a virtual machine to build a strong foundation in system administration and prepare for a future in cloud computing.
-
-Each day’s learning is documented in a separate Markdown file, covering real-world concepts, commands, and examples.
-
-This is a self-paced, hands-on journey toward mastering Linux fundamentals.
+This repository contains my personal notes and practice files from my **30-day Linux learning journey**.  
+I'm using **Red Hat Linux** on a **VMware Workstation virtual machine** for hands-on practice as part of my self-paced journey to build a strong Linux foundation.
 
 ---
 
-## 📄 License
+## 📘 Daily Documentation
+
+Each day’s learning is documented in a separate Markdown file, including:
+
+-  **Topics I covered**
+-  **Key concepts and notes**
+-  **Commands I practiced**
+
+This is a **self-paced, hands-on journey** toward mastering **Linux fundamentals**.
+
+---
+
+## 📝 License
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 

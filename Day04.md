@@ -66,4 +66,5 @@ echo -e "Line1\nLine2"        # Enable escape characters
 echo "Linux is cool" > file.txt      # Write (overwrite) to file
 echo "Add this line" >> file.txt     # Append to file
 ```
+
 ---

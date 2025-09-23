@@ -1,8 +1,8 @@
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-##  30-Day Linux Learning Journey
+##  Linux Learning Journey
 
-This repository contains my personal notes and practice files from my **30-day Linux learning journey**.  
+This repository contains my personal notes and practice files from my **Linux learning journey**.  
 I'm using **Red Hat Linux** on a **VMware Workstation virtual machine** for hands-on practice as part of my self-paced journey to build a strong Linux foundation.
 
 ---

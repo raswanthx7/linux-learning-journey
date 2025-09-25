@@ -1,4 +1,4 @@
-# Day 01 – Introduction to Linux
+# Introduction to Linux
 
 ## Topics Covered:
 - What is Linux?

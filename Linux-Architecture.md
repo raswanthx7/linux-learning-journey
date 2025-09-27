@@ -1,4 +1,4 @@
-# Day 02 – Linux Architecture & Shell
+# Linux Architecture & Shell
 
 ## Topics Covered
 

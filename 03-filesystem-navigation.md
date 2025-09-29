@@ -1,4 +1,4 @@
-# Day 03 – File System Navigation
+# File System Navigation
 
 ## Topics Covered
 

@@ -1,4 +1,4 @@
-# Day 04 – File & Folder Operations
+# File & Folder Operations
 
 ## Topics Covered
 

@@ -1,4 +1,4 @@
-# Day 25 – SSH & Remote Access
+# SSH & Remote Access
 
 ---
 

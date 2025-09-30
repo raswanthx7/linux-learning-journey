@@ -1,4 +1,4 @@
-# Day 17 – System & Process Monitoring
+# System & Process Monitoring
 
 ## Topics Covered
 - System Info Commands: `top`, `htop`, `uptime`, `free`, `vmstat`

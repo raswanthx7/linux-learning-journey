@@ -1,4 +1,4 @@
-#  Day 14 – Weekly Review + Hands-on
+#  Weekly Review + Hands-on
 
 ---
 

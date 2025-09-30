@@ -1,4 +1,4 @@
-# Day 07 – File Permissions Deep Dive
+# File Permissions Deep Dive
 
 ## Topics Covered
 

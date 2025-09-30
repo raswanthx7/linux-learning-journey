@@ -1,4 +1,4 @@
-# Day 23 – Shell Scripting Essentials
+# Shell Scripting Essentials
 
 
 ##  Topics Covered

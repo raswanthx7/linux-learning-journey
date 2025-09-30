@@ -19,33 +19,51 @@ This is a **self-paced, hands-on journey** toward mastering **Linux fundamentals
 
 ---
 
-##  Day-wise Progress
+##  Table of Contents
 
-- [Day01 – Linux Introduction](Day01.md)  
-- [Day02 – Linux Architecture & Shell](Day02.md)  
-- [Day03 – File System & Navigation](Day03.md)  
-- [Day04 – Files & Folder Operations](Day04.md)  
-- [Day05 – Viewing & Editing Files](Day05.md)  
-- [Day06 – File Management & Disk Usage](Day06.md)  
-- [Day07 – File Permission Deep Dive](Day07.md)  
-- [Day08 – User & Group Management](Day08.md)  
-- [Day09 – Superuser, Sudo & Privilege Management](Day09.md)  
-- [Day10 – Redirection & Pipes](Day10.md)  
-- [Day11 – Hostnames & Prompts](Day11.md)  
-- [Day12 – Search Tools](Day12.md)  
-- [Day13 – Links & File Metadata](Day13.md)  
-- [Day14 – Weekly Review + Hands-on](Day14.md)  
-- [Day15 – Package Management](Day15.md)  
-- [Day16 – Disk & File System](Day16.md)  
-- [Day17 – System & Process Monitoring](Day17.md)  
-- [Day18 – Services & Daemons](Day18.md)  
-- [Day19 – Log Files & Analysis](Day19.md)  
-- [Day20 – Cron Jobs & Scheduling](Day20.md)  
-- [Day21 – Practice Day](Day21.md)  
-- [Day22 – Shell Scripting Basics](Day22.md)  
-- [Day23 – Scripting Essentials](Day23.md)  
-- [Day24 – Networking Basics](Day24.md)  
-- [Day25 – SSH & Remote Access](Day25.md)  
+### 01 – Foundation Basics
+- [Linux Introduction](01-foundation-basics/01-Linux-Introduction.md)
+- [Linux Architecture](01-foundation-basics/02-Linux-Architecture.md)
+- [Filesystem Navigation](01-foundation-basics/03-filesystem-navigation.md)
+- [File & Folder Operations](01-foundation-basics/04-file-folder-operations.md)
+
+### 02 – File Management & Permissions
+- [Viewing & Editing Files](02-file-management-permissions/01-viewing-editing-file.md)
+- [File Management & Disk Usage](02-file-management-permissions/02-file-management-disk-usage.md)
+- [File Permissions](02-file-management-permissions/03-file-permission.md)
+- [Users & Groups](02-file-management-permissions/04-user-group.md)
+- [Superuser & Sudo](02-file-management-permissions/05-superuser-sudo.md)
+
+### 03 – Redirection, Scripting & Shell
+- [Redirection & Pipes](03-redirection-scripting-shell/01-redirection-pipes.md)
+- [Search Tools](03-redirection-scripting-shell/02-search-tools.md)
+- [Hostnames, Prompts & Profiles](03-redirection-scripting-shell/03-hostnames-prompts-profiles.md)
+- [Links & File Metadata](03-redirection-scripting-shell/04-links-file-metadata.md)
+- [Weekly Review](03-redirection-scripting-shell/weekly-review.md)
+
+### 04 – System Administration & Monitoring
+- [Package Management](04-system-admin-monitoring/01-package-management.md)
+- [Disks & Filesystems](04-system-admin-monitoring/02-disk-filesystem.md)
+- [System & Process Monitoring](04-system-admin-monitoring/03-system-process-monitoring.md)
+- [Services & Daemons](04-system-admin-monitoring/04-services-daemons.md)
+- [Log Files Analysis](04-system-admin-monitoring/05-log-files-analysis.md)
+- [Cron Jobs & Scheduling](04-system-admin-monitoring/06-cron-jobs-scheduling.md)
+- [Practice Day](04-system-admin-monitoring/practice-day.md)
+
+### 05 – Networking, Security & Backup
+####  Networking
+- [Networking Basics](05-networking-security-backup/networking/01-networking-basics.md)
+- [SSH Remote Access](05-networking-security-backup/networking/ssh-remote-access.md)
+
+####  Security & Backup
+- [Firewall Tools](05-networking-security-backup/security-backup/01-Firewall-tools.md)
+- [Firewall Zones (with scenario)](05-networking-security-backup/security-backup/02-firewall-zones-with-scenario.md)
+- [SELinux](05-networking-security-backup/security-backup/03-SELinux.md)
+- [Backup & Recovery](05-networking-security-backup/security-backup/04-Backup-and-Recovery.md)
+
+### 06 – Shell Scripting
+- [Shell Scripting Basics](06-Shell-Scripting/01-shell-scripting-basics.md)
+- [Essential Shell Scripting](06-Shell-Scripting/02-shell-scripting-essential.md)
 
 ---
 

@@ -1,4 +1,4 @@
-#  Day 08 – Users and Groups
+#  Users and Groups
 
 ## 🔹 Topics Covered
 

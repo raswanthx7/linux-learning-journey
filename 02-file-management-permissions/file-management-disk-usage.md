@@ -1,4 +1,4 @@
-# Day 06 – File Management & Disk Usage
+# File Management & Disk Usage
 
 ## 🔹 Topics Covered:
 

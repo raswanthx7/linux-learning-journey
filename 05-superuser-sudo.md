@@ -1,4 +1,4 @@
-#  Day 09 – Superuser & sudo
+#  Superuser & sudo
 
 ##  Topics Covered
 

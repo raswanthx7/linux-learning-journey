@@ -1,4 +1,4 @@
-#  Day 16 – Disk & Filesystem
+#  Disk & Filesystem
 
 ---
 

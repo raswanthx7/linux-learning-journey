@@ -1,4 +1,4 @@
-# Day 05 – Viewing & Editing Files in Linux
+# Viewing & Editing Files in Linux
 
 ## Topics Covered
 

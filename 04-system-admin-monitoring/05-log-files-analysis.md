@@ -1,4 +1,4 @@
-# Day 19 – Log Files & Analysis
+# Log Files & Analysis
 
 ##  Topics Covered
 - View logs: `journalctl`, `/var/log/messages`, `dmesg`

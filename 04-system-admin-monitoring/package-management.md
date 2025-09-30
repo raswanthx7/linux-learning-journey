@@ -1,4 +1,4 @@
-#  Day 15 – Package Management
+#  Package Management
 
 ---
 

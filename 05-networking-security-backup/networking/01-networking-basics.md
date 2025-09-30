@@ -1,4 +1,4 @@
-# Day 24 – Networking Basics
+# Networking Basics
 
 ---
 

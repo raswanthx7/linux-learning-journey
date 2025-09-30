@@ -1,4 +1,4 @@
-#  Day 22 – Shell Scripting
+#  Shell Scripting
 
 
 ##  Topics Covered:

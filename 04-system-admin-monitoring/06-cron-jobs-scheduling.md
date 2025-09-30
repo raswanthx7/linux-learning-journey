@@ -1,4 +1,4 @@
-#  Day 20 – Cron Jobs & Scheduling
+#  Cron Jobs & Scheduling
 
 ##  Topics Covered
 - Scheduled tasks: `cron`, `crontab`, `at`, `sleep`, `watch`

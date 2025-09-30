@@ -1,4 +1,4 @@
-#  Day 21 – Practice Day
+#  Practice Day
 
 
 ##  Topics Covered:

@@ -1,4 +1,4 @@
-#  Day 13 – Links & File Metadata
+#  Links & File Metadata
 
 ---
 

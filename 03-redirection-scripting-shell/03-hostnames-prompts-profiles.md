@@ -1,4 +1,4 @@
-# Day 11 – Hostnames, Prompts & Profiles
+# Hostnames, Prompts & Profiles
 
 ##  Topics Covered:
 - Setting the system hostname using `hostnamectl`

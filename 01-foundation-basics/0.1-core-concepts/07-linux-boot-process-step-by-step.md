@@ -87,6 +87,7 @@ It performs:
 - Contains essential drivers and scripts.
 - Helps the kernel **find and mount the real root filesystem** (`/`).
 - Once the real root filesystem is mounted, initramfs is **discarded**.
+- initramfs = a small temporary filesystem that helps Linux find and mount the real root filesystem
 
 ---
 

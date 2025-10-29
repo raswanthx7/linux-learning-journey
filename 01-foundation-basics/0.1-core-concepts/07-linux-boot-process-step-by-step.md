@@ -64,6 +64,14 @@ Once UEFI finds and loads the bootloader, control passes to it.
 2. Load the **Linux kernel** and **initramfs** (initial RAM filesystem) into memory.
 3. Pass control to the **kernel**.
 
+Example in Linux: GRUB (GRand Unified Bootloader).
+
+GRUB’s job:
+
+- Show you a boot menu (Ubuntu, Rescue, etc.).
+- Load the Linux kernel and initramfs into RAM.
+- initramfs = a small temporary filesystem that helps Linux find and mount the real root filesystem.
+
 ---
 
 ##  5. Kernel Initialization

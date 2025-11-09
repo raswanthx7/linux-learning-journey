@@ -55,7 +55,8 @@ In Linux, every disk is treated as a **block device**, meaning data is transferr
 ## 4. Commands to check disks and their types (quick reference)
 - `lsblk` — list block devices in a tree (shows NAME, SIZE, TYPE, MOUNTPOINT)  
   - `lsblk -d -o NAME,ROTA,TRAN,SIZE` — shows transport (`TRAN` like sata/nvme) and rotational flag (`ROTA` 1=HDD, 0=SSD).
-  - | **Column**     | **Meaning**                | **Example**               | **Explanation**                                                                 |
+
+| **Column**     | **Meaning**                | **Example**               | **Explanation**                                                                 |
 |----------------|----------------------------|---------------------------|---------------------------------------------------------------------------------|
 | **NAME**       | Device name                | `nvme0n1`, `nvme0n1p1`    | The name Linux gives to each storage device and partition.<br>• `nvme0n1` = Whole NVMe disk.<br>• `nvme0n1p1` = Partition 1 of that disk. |
 | **MAJ:MIN**    | Major & minor device numbers | `259:0`                   | Internal kernel identifiers used to track devices.<br>Not used in commands — handled by Linux’s device manager. |

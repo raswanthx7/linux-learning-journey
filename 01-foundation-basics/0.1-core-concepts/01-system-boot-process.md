@@ -44,7 +44,7 @@ It begins the moment you press the power button and ends when the OS is fully re
 
 ###  Step 5: Bootloader Loads the OS Kernel
 - Once in memory, the **bootloader** locates the **Linux kernel** (e.g., `/boot/vmlinuz`).
-- It also loads a small **initramfs (initial RAM filesystem)** — a temporary root filesystem.
+- It also loads a small **initramfs (initramfs = a small temporary filesystem that helps Linux find and mount the real root filesystem)** — a temporary root filesystem.
 - The bootloader passes control to the kernel.
 
 ---

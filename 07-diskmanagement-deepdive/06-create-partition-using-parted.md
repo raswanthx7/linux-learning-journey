@@ -1,6 +1,6 @@
-# 🧠 Creating Disk Partitions Using `parted` in Linux
+#  Creating Disk Partitions Using `parted` in Linux
 
-## 📘 Topics Covered
+##  Topics Covered
 - Introduction to `parted`
 - Why use `parted` over `fdisk`
 - Checking disk layout before partitioning

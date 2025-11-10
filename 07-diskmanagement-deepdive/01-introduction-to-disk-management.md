@@ -55,6 +55,17 @@ In Linux, every disk is treated as a **block device**, meaning data is transferr
 ## 4. Commands to check disks and their types (quick reference)
 - `lsblk` — list block devices in a tree (shows NAME, SIZE, TYPE, MOUNTPOINT)  
   - `lsblk -d -o NAME,ROTA,TRAN,SIZE` — shows transport (`TRAN` like sata/nvme) and rotational flag (`ROTA` 1=HDD, 0=SSD).
+
+| **Column**     | **Meaning**                | **Example**               | **Explanation**                                                                 |
+|----------------|----------------------------|---------------------------|---------------------------------------------------------------------------------|
+| **NAME**       | Device name                | `nvme0n1`, `nvme0n1p1`    | The name Linux gives to each storage device and partition.<br>• `nvme0n1` = Whole NVMe disk.<br>• `nvme0n1p1` = Partition 1 of that disk. |
+| **MAJ:MIN**    | Major & minor device numbers | `259:0`                   | Internal kernel identifiers used to track devices.<br>Not used in commands — handled by Linux’s device manager. |
+| **RM**         | Removable flag             | `0`                       | `0` = Not removable (fixed disk).<br>`1` = Removable (e.g. USB, SD card).      |
+| **SIZE**       | Disk/Partition size        | `8G`, `1M`, `10M`         | Displays total capacity of each disk or partition.                            |
+| **RO**         | Read-only flag             | `0`                       | `0` = Read/Write.<br>`1` = Read-only (cannot write data).                      |
+| **TYPE**       | Type of device             | `disk`, `part`, `lvm`     | Indicates whether it’s a full disk (`disk`), a partition (`part`), or a logical volume (`lvm`). |
+| **MOUNTPOINTS**| Mounted path               | `/`, `/boot/efi`          | Shows where the partition is attached (mounted) in the Linux filesystem tree.  |
+
 - `fdisk -l` — show partition tables (disklabel type: gpt/msdos), sectors, start/end.  
 - `parted /dev/sdX print` or `parted -l` — detailed GPT/MBR info; `print free` shows unallocated space.  
 - `blkid` — show UUIDs, LABELs and filesystem types.  
